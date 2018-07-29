@@ -1,6 +1,7 @@
-.navbar{
-  padding: 60px
-}
+/* .navbar{
+  padding: 15px;
+  background-color: grey */
+/* } */
 
 header {
   background-image: url('http://blackrockdigital.github.io/startbootstrap-agency/img/header-bg.jpg');
@@ -53,3 +54,9 @@ section {
   font-weight: 400;
   margin-bottom: 75px;
 }
+/* .container {
+  border: 1px solid red
+}
+.col-md-4 {
+  border: 1px solid red
+} */
